@@ -28,4 +28,4 @@ si表示“如此地”+adj./adv.
 ### 其他
 
 - si引导的从句在这里不表示假设，而是起转折和强调主语的作用。
-  -Si Paris est le coeur de la france, l'ile de cité est le coeur de Paris.巴黎是法国的中心，而西岱岛则是巴黎的中心。
+  - Si Paris est le coeur de la france, l'ile de cité est le coeur de Paris.巴黎是法国的中心，而西岱岛则是巴黎的中心。
