@@ -13,8 +13,10 @@ Si Paris est le coeur de la france, l'ile de cité est le coeur de Paris.
 巴黎是法国的中心，而西岱岛则是巴黎的中心。
 
 ## 假设，如果
+
 si现在时表示“如果”
 
 |用法|详解|例句|
 |:--|:--|:--|
 |主将从现|present+futur simple/aller|On se promenera au bord du lac, s'il fait beau.<br>S'il fait beau, on se promenera au bord du lac.|
+|主句conditionnel<br>从句imparfait|实现的可能性小/完全不可能实现<br>（简单对应简单）|Si j'etais toi/vous, j'irais aux Etats-Unis.<br>Si j'ai de l'argent, je voyagerai en France.可能性大<br>Si j'avais de l'argent, je voyagerais en Europe.可能性小/没可能|
