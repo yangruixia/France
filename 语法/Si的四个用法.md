@@ -17,5 +17,4 @@ si现在时表示“如果”
 
 |用法|详解|例句|
 |:--|:--|:--|
-|主将从现|present+futur simple/aller|On se promenera au bord du lac, s'il fait beau.|
-
+|主将从现|present+futur simple/aller|On se promenera au bord du lac, s'il fait beau.<br>S'il fait beau, on se promenera au bord du lac.|
